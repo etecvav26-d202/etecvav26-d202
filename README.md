@@ -28,7 +28,7 @@
 <div align="center">
 
 <a href="https://github.com/amandanevoli">
-<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=AMANDA-NEVES&logoColor=white">
 </a>
 
 </div>
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-### 💖 Obrigado por visitar nosso repositório 💖
+## ETEC VASCO ANTÔNIO VENCHIARUTTI, 2026
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
 </div>
 
