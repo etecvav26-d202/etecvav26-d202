@@ -16,9 +16,9 @@
 
 <img src="https://skillicons.dev/icons?i=github,vscode,php" />
 
-<img src="https://cdn.simpleicons.org/xampp/F37623" width="55px"/>
+<img src="https://cdn.simpleicons.org/xampp/F37623" width="50px"/>
 
-<img src="./assets/mitappinventor.png" width="95px"/>
+<img src="./assets/mitappinventor.png" width="90px"/>
 
 </div>
 
