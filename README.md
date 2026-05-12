@@ -39,8 +39,6 @@
 <img src="https://img.shields.io/badge/AMANDA_NEVES-32cd32?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
-
 <a href="https://github.com/liviatakeyama">
 <img src="https://img.shields.io/badge/ANA_LÍVIA_TAKEYAMA-800080?style=for-the-badge&logo=github&logoColor=white">
 </a>
