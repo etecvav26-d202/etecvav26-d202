@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://github.com/etecvav26-d202/etecvav26-d202/blob/main/assets/tecnologias.png" width="55px"/>
+<img src="https://github.com/etecvav26-d202/etecvav26-d202/blob/main/assets/tecnologias.png" width="200px"/>
 
 </div>
 
