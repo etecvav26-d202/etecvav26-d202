@@ -2,27 +2,13 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo+%C3%A0+conta+do+nosso+grupo!;/Aqui+voc%C3%AA+encontra+as+atividades+e+trabalhos+feitos+durante+o+ano+de+2026./;/Grupo+2+-+2%C2%BA+ano+D+(Inform%C3%A1tica+para+Internet+)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo+%C3%A0+conta+do+nosso+grupo!;/Atividades+e+trabalhos+feitos+durante+o+ano+de+2026/;/Grupo+2+-+2%C2%BA+ano+D+(Inform%C3%A1tica+para+Internet+)/" alt="Typing SVG" />
 
 <br><br>
 
 <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
-
----
-
-# 👥 Sobre o Grupo
-
-Somos um grupo focado no desenvolvimento de aplicações mobile, criando projetos criativos, modernos e funcionais durante as atividades de DDM.
-
-Aqui compartilhamos nossos:
-
-* 📱 Aplicativos
-* 🎨 Interfaces
-* 📚 Relatórios
-* 🛠️ Projetos acadêmicos
-* 🚀 Experimentos e estudos
 
 ---
 
