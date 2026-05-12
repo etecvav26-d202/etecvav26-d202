@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://github.com/etecvav26-d202/etecvav26-d202/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/etecvav26-d202/etecvav26-d202/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
