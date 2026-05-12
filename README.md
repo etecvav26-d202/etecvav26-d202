@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=Grupo%202&fontSize=40&fontColor=ffffff"/>
+<img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=Grupo%202&fontSize=20&fontColor=ffffff"/>
 
 <div align="center">
 
