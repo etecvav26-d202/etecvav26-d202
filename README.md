@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+reposit%C3%B3rio+do+nosso+grupo!;Projetos+de+Desenvolvimento+Mobile;Criatividade+%2B+Tecnologia+%2B+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Bem-vindo\+%C3%A0\+conta\+do\+nosso\+grupo!;Aqui\+voc%C3%AA\+encontra\+as\+atividades\+e\+trabalhos\+feitos\+durante\+o\+ano\+de\+2026.;Grupo\+2\+-\+2%C2%BA\+ano\+D\+\(Inform%C3%A1tica\+para\+Internet\+)" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzQ2bXh4ZXJ2dDVtNGVlb3JhaDFsOHVjNmx4OGJ6aWw5YzA0a3Z5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300px">
+<img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 </div>
 
@@ -30,7 +30,10 @@ Aqui compartilhamos nossos:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,github,firebase,vscode" />
+<img src="https://skillicons.dev/icons?i=github,vscode,php" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/XAMPP_logo.svg" width="60px" />
+<img src="https://appinventor.mit.edu/explore/sites/all/files/ai2/appinventor_logo.png" width="60px" />
 
 </div>
 
@@ -91,4 +94,5 @@ Criar aplicações modernas e aprender cada vez mais sobre:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer"/>
 
 </div>
+
 
