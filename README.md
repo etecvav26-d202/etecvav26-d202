@@ -16,11 +16,9 @@
 
 <img src="https://skillicons.dev/icons?i=github,vscode,php" />
 
-<br><br>
-
 <img src="https://cdn.simpleicons.org/xampp/F37623" width="55px"/>
 
-<img src="https://appinventor.mit.edu/explore/sites/all/files/ai2/appinventor_logo.png" width="55px"/>
+<img src="https://seeklogo.com/images/M/mit-app-inventor-logo-DBA66F8D36-seeklogo.com.png" width="55px"/>
 
 </div>
 
