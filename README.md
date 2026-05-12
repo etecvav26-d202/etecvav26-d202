@@ -14,11 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,vscode,php" />
-
-<img src="https://cdn.simpleicons.org/xampp/F37623" width="50px"/>
-
-<img src="./assets/mitappinventor.png" width="90px"/>
+<img src="https://github.com/etecvav26-d202/etecvav26-d202/blob/main/assets/tecnologias.png"/>
 
 </div>
 
