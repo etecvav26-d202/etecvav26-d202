@@ -18,7 +18,7 @@
 
 <img src="https://cdn.simpleicons.org/xampp/F37623" width="55px"/>
 
-<img src="https://seeklogo.com/images/M/mit-app-inventor-logo-DBA66F8D36-seeklogo.com.png" width="55px"/>
+<img src="https://img.icons8.com/color/96/mit-app-inventor.png" width="55px"/>
 
 </div>
 
