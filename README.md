@@ -18,7 +18,7 @@
 
 <img src="https://cdn.simpleicons.org/xampp/F37623" width="55px"/>
 
-<img src="./assets/mitappinventor.png" width="105px"/>
+<img src="./assets/mitappinventor.png" width="95px"/>
 
 </div>
 
