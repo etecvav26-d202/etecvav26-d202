@@ -1,3 +1,26 @@
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=180&section=header&text=Grupo%202&fontSize=40&fontColor=ffffff"/>
+
+<div align="center">
+
+<!-- TEXTO ANIMADO -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=800080&center=true&vCenter=true&width=1000&lines=Bem-vindo+%C3%A0+conta+do+nosso+grupo!;Atividades+e+trabalhos+feitos+durante+o+ano+de+2026.;Grupo+2+-+2%C2%BA+ano+D+(Inform%C3%A1tica+para+Internet)" alt="Typing SVG" />
+
+<br><br>
+
+<!-- VISITAS -->
+<img src="https://komarev.com/ghpvc/?username=etecvav26-d202&color=800080&style=for-the-badge"/>
+
+<br><br>
+
+<!-- COBRINHA -->
+<img src="https://raw.githubusercontent.com/etecvav26-d202/etecvav26-d202/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+</div>
+
+<!-- DIVISÓRIA -->
+<img width="100%" src="https://i.imgur.com/dBaSKWF.gif"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=800080&center=true&vCenter=true&width=1000&lines=Bem-vindo+%C3%A0+conta+do+nosso+grupo!;Atividades+e+trabalhos+feitos+durante+o+ano+de+2026;Grupo+2+-+2%C2%BA+ano+D+(Inform%C3%A1tica+para+Internet)" alt="Typing SVG" />
