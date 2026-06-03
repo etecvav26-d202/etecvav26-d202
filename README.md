@@ -27,7 +27,7 @@
 <div align="center">
 
 <a href="https://github.com/alice-gimenez">
-<img src="https://img.shields.io/badge/ALICE_GIMENEZ-7c0091?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/ALICE_GIMENEZ-864991?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/alicerez0703">
@@ -35,7 +35,7 @@
 </a>
 
 <a href="https://github.com/amandanevoli">
-<img src="https://img.shields.io/badge/AMANDA_NEVES-157023?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/AMANDA_NEVES-98009?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://github.com/liviatakeyama">
